@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">MvvmDemo</string>
+    <string name="_0">0</string>
+    <string name="count">count</string>
+</resources>
